@@ -1,0 +1,11 @@
+# Chrome scraper user data & cache (sensitive and ~460MB)
+chrome_scraper_profile/
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.env
+.venv/
+venv/
+ENV/
