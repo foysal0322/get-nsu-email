@@ -9,3 +9,7 @@ __pycache__/
 .venv/
 venv/
 ENV/
+
+# Credentials & secrets
+smtp-credentials.csv
+*credentials*.csv
